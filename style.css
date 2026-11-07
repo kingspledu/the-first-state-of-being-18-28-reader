@@ -8,3 +8,4 @@ section{counter-reset:sentence}
 .reading-sentence{counter-increment:sentence}
 .reading-sentence::before{content:counter(sentence);font:600 .58em/1 Arial,sans-serif;vertical-align:super;color:#8d5b48;margin-right:3px;letter-spacing:0}
 @media(max-width:600px){header{padding:10px 4vw;gap:7px}header select{max-width:125px}body{padding-top:52px}}
+.story-scene{margin:18px 0}.story-scene img{display:block;width:100%;max-width:720px;border-radius:8px}
