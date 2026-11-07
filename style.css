@@ -16,3 +16,4 @@ header{display:flex!important;align-items:center!important;justify-content:space
 .font-controls{display:flex;gap:6px;flex:0 0 auto}.font-controls button{display:inline-flex!important;visibility:visible!important;opacity:1!important;position:static!important;width:42px!important;height:36px!important;align-items:center;justify-content:center}
 .chapter-picker{margin-right:auto!important;flex:0 0 auto}.chapter-picker>button{white-space:nowrap}
 .source-facts{border-top:2px solid #c16d4c;margin-top:40px;padding-top:10px}.source-facts h3{margin-top:1.8em;color:#8d5b48}.source-facts ul{padding-left:1.25em}.fact-note{font:14px/1.6 Arial,sans-serif;color:#67756f}
+.sentence-audio{font:12px Arial;border:1px solid #c16d4c;border-radius:50%;background:#fffaf2;color:#8d5b48;width:24px;height:24px;padding:0;margin-right:5px;cursor:pointer;vertical-align:middle}
