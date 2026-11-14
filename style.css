@@ -17,3 +17,4 @@ header{display:flex!important;align-items:center!important;justify-content:space
 .chapter-picker{margin-right:auto!important;flex:0 0 auto}.chapter-picker>button{white-space:nowrap}
 .source-facts{border-top:2px solid #c16d4c;margin-top:40px;padding-top:10px}.source-facts h3{margin-top:1.8em;color:#8d5b48}.source-facts ul{padding-left:1.25em}.fact-note{font:14px/1.6 Arial,sans-serif;color:#67756f}
 .sentence-audio{font:12px Arial;border:1px solid #c16d4c;border-radius:50%;background:#fffaf2;color:#8d5b48;width:24px;height:24px;padding:0;margin-right:5px;cursor:pointer;vertical-align:middle}
+section[id]{scroll-margin-top:90px}header{box-sizing:border-box}
